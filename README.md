@@ -47,6 +47,8 @@ Este projeto exemplifica o uso de **Pytest** para testar a funcionalidade de API
 
 ![Início de Teste da API](./img/TEST%20START%20API.jpg)
 ![Histórico de Teste da API](./img/HISTORICO%20TEST%20API.jpg)
+![OK](./img/ok.jpg)
+![invalid](./img/invalidcoin.jpg)
 
 ## 📂 Estrutura de Diretórios
 
