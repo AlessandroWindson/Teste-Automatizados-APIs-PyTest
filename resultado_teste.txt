@@ -1,0 +1,44 @@
+============================= test session starts =============================
+platform win32 -- Python 3.14.0a1, pytest-8.3.3, pluggy-1.5.0 -- C:\Projetos\ambiente_teste_pytest\venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Projetos\ambiente_teste_pytest
+collecting ... collected 36 items
+
+test_api.py::test_spacex_api_success PASSED                              [  2%]
+test_api.py::test_spacex_api_invalid_launch PASSED                       [  5%]
+test_api.py::test_spacex_launch_data PASSED                              [  8%]
+test_api.py::test_spacex_launch_structure PASSED                         [ 11%]
+test_api.py::test_spacex_launch_history PASSED                           [ 13%]
+test_api.py::test_pokeapi_success PASSED                                 [ 16%]
+test_api.py::test_pokeapi_invalid_pokemon PASSED                         [ 19%]
+test_api.py::test_pokeapi_pokemon_data PASSED                            [ 22%]
+test_api.py::test_pokeapi_pokemon_structure PASSED                       [ 25%]
+test_api.py::test_pokeapi_pokemon_list PASSED                            [ 27%]
+test_api.py::test_cat_facts_success PASSED                               [ 30%]
+test_api.py::test_cat_facts_invalid_url PASSED                           [ 33%]
+test_api.py::test_cat_facts_data_structure PASSED                        [ 36%]
+test_api.py::test_cat_facts_non_empty PASSED                             [ 38%]
+test_api.py::test_cat_facts_list PASSED                                  [ 41%]
+test_api.py::test_coin_gecko_success PASSED                              [ 44%]
+test_api.py::test_coin_gecko_invalid_coin PASSED                         [ 47%]
+test_api.py::test_coin_gecko_data PASSED                                 [ 50%]
+test_api.py::test_coin_gecko_data_structure PASSED                       [ 52%]
+test_api.py::test_coin_gecko_price_history PASSED                        [ 55%]
+test_cat_facts_api.py::test_cat_facts_success PASSED                     [ 58%]
+test_cat_facts_api.py::test_cat_facts_invalid_url PASSED                 [ 61%]
+test_cat_facts_api.py::test_cat_facts_data_structure PASSED              [ 63%]
+test_cat_facts_api.py::test_cat_facts_non_empty PASSED                   [ 66%]
+test_cat_facts_api.py::test_cat_facts_list PASSED                        [ 69%]
+test_pokeapi.py::test_pokeapi_success PASSED                             [ 72%]
+test_pokeapi.py::test_pokeapi_invalid_pokemon PASSED                     [ 75%]
+test_pokeapi.py::test_pokeapi_pokemon_data PASSED                        [ 77%]
+test_pokeapi.py::test_pokeapi_pokemon_structure PASSED                   [ 80%]
+test_pokeapi.py::test_pokeapi_pokemon_list PASSED                        [ 83%]
+test_spacex_api.py::test_spacex_api_success PASSED                       [ 86%]
+test_spacex_api.py::test_spacex_api_invalid_launch PASSED                [ 88%]
+test_spacex_api.py::test_spacex_launch_data PASSED                       [ 91%]
+test_spacex_api.py::test_spacex_launch_structure PASSED                  [ 94%]
+test_spacex_api.py::test_spacex_launch_history PASSED                    [ 97%]
+tests/test_sample.py::test_soma PASSED                                   [100%]
+
+============================= 36 passed in 17.73s =============================
