@@ -128,8 +128,12 @@ Use o operador > para redirecionar o resultado para um arquivo de texto:
 bash
 pytest -v > resultado_teste.txt
 
-![StartTeste](img/TEST START API.jpg)
-![HistoricoTeste](img/HISTORICO TEST API.jpg)
+## Início de Teste da API
+![Início de Teste da API](img/TEST%20START%20API.jpg)
+
+## Histórico de Teste da API
+![Histórico de Teste da API](img/HISTORICO%20TEST%20API.jpg)
+
 
 Saída Esperada
 ✅ Todos os testes aprovados: saída com fundo verde.
