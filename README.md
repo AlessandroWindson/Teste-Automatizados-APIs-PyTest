@@ -167,5 +167,3 @@ Entre em contato via AlessandroWindsonMM@gmail.com
 
 5️⃣ Conclusão
 Esta documentação cobre os principais passos para criar, organizar e executar testes automatizados para APIs públicas. Certifique-se de personalizar os testes de acordo com suas necessidades e mantenha as dependências sempre atualizadas!
-
-Este README.md foi projetado para ser altamente detalhado e profissional. Preencha os links do GitHub e e-mail conforme necessário. Se precisar de mais alterações ou melhorias, é só avisar! 😊
