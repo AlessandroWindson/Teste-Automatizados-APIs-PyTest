@@ -45,6 +45,9 @@ Este projeto exemplifica o uso de **Pytest** para testar a funcionalidade de API
 
 ---
 
+![Histórico de Teste da API](./img/HISTORICO%20TEST%20API.jpg)
+![Início de Teste da API](./img/TEST%20START%20API.jpg)
+
 ## 📂 Estrutura de Diretórios
 
 Abaixo está a estrutura do projeto:
@@ -127,13 +130,6 @@ Para salvar o histórico em um arquivo:
 Use o operador > para redirecionar o resultado para um arquivo de texto:
 bash
 pytest -v > resultado_teste.txt
-
-## Início de Teste da API
-![Início de Teste da API](img/TEST%20START%20API.jpg)
-
-## Histórico de Teste da API
-![Histórico de Teste da API](img/HISTORICO%20TEST%20API.jpg)
-
 
 Saída Esperada
 ✅ Todos os testes aprovados: saída com fundo verde.
